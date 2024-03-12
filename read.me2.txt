@@ -1,0 +1,2 @@
+Git adalah sistem kontrol versi yang digunakan untuk mengelola dan melacak perubahan pada file dan proyek perangkat lunak. 
+Dengan Git, pengembang dapat membuat salinan cadangan dari proyek mereka, bekerja secara kolaboratif dengan tim, dan melacak setiap perubahan yang dibuat. 
